@@ -37,12 +37,6 @@ You can find all of my social media accounts on my LinkTree: https://linktr.ee/A
 <img align="left" alt="redux" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
 <br><br>
 
-## Statistics
-<br>
-
-[![Alexandrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmehandzhiyska&show_icons=true)](https://github.com/alexmehandzhiyska/sat-academy-fe)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmehandzhiyska)](https://github.com/alexmehandzhiyska/sat-academy-fe)
 <!--
 **alexmehandzhiyska/alexmehandzhiyska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
