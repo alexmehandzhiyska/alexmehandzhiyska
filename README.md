@@ -8,6 +8,7 @@
 - 🧑‍🏫 <b>STEM Swift Academy (SSA)</b> - a personal project which aims to provide students with high-quality online exam preparation. It is the first educational app in Bulgaria to implement some of the most effective study techniques, such as Active Recall, Spaced Repetition, Kolb's Experiential cycle, Priming, etc. - https://github.com/alexmehandzhiyska/stem-swift-academy<br><br> 
 - 👧 <b>DaDay</b> - a kids mental health app I started working on during the HackAUBG 4.0 hackathon. I am responsible for the front-end part of the app, and I work in a dev team with Diyan Kalaydzhiev. - https://github.com/alexmehandzhiyska/DaDay<br><br> 
 - ☁️ <b>Cloud</b> - a cloud app I'm developing in a team with my former university colleagues Miro and Georgi. - https://github.com/alexmehandzhiyska/cloud-fe
+- 💰 <b>Postbank Discount Management App</b> - a project I developed in a team with Miro and Georgi during SoftUni Fest 2022 (a 48-hour hackathon) - https://github.com/alexmehandzhiyska/postbank-fe
 <br><br>
 ## 📫 How to reach me:
 You can find all of my social media accounts on my LinkTree: https://linktr.ee/AlexandrinaMehandzhiyska
