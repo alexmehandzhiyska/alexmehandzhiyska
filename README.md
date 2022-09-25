@@ -3,7 +3,7 @@
 👧 I am Alexandrina Mehandzhiyska (Alex), I am 17 years old from Bulgaria. 🇧🇬<br><br>
 🎓 I graduated from Software University in February 2022 with a 6.0/6.0 GPA. I am also a senior high school music student.<br><br>
 💻 I work as a web developer at Aim Academics and I am a lecturer at Software University.
-🏆 I won 4th place on the final round of the National Olympiad of Information Technologies 2022 (category Distributed Applications)
+🏆 I won 4th place at the final of the National Olympiad of Information Technologies 2022 (category Distributed Applications)
 ## 🔭 Projects
 - 🧑‍🏫 <b>STEM Swift Academy (SSA)</b> - a personal project which aims to provide students with high-quality online exam preparation. It is the first educational app in Bulgaria to implement some of the most effective study techniques, such as Active Recall, Spaced Repetition, Kolb's Experiential cycle, Priming, etc. - https://github.com/alexmehandzhiyska/stem-swift-academy<br><br> 
 - 👧 <b>DaDay</b> - a kids mental health app I started working on during the HackAUBG 4.0 hackathon. I am responsible for the front-end part of the app, and I work in a dev team with Diyan Kalaydzhiev. - https://github.com/alexmehandzhiyska/DaDay<br><br> 
@@ -18,6 +18,7 @@ Singing, piano, speedcubing, volunteering, foreign languages, medicine, psycholo
 ## Technologies and tools
 
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="typescript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="cplusplus" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="react" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
