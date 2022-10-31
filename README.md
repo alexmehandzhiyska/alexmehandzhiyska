@@ -1,6 +1,6 @@
 
 ## 👋 Introduction & Bio
-👧 I am Alexandrina Mehandzhiyska (Alex), I am 17 years old from Bulgaria. 🇧🇬<br><br>
+👧 I am Alexandrina Mehandzhiyska (Alex), I am 18 years old from Bulgaria. 🇧🇬<br><br>
 🎓 I graduated from Software University in February 2022 with a 6.0/6.0 GPA. I am also a senior high school music student.<br><br>
 💻 I work as a web developer at Aim Academics and I am a lecturer at Software University.
 🏆 I won 4th place at the final of the National Olympiad of Information Technologies 2022 (category Distributed Applications)
