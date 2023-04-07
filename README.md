@@ -2,7 +2,7 @@
 ## 👋 Introduction & Bio
 👧 I am Alexandrina Mehandzhiyska (Alex), I am 18 years old from Bulgaria. 🇧🇬<br><br>
 🎓 I graduated from Software University in February 2022 with a 6.0/6.0 GPA. I am also a senior high school music student.<br><br>
-💻 I work as a web developer at Aim Academics and I am a lecturer at Software University.
+💻 I work as a web developer at Aim Academics and I am a lecturer at Software University. I am the project manager of "SoftUni for teachers" - a national initiative, aimed at designing educational resources for Bulgarian IT teachers.
 🏆 I won 4th place at the final of the National Olympiad of Information Technologies 2022 (category Distributed Applications)
 ## 🔭 Projects
 - 🧑‍🏫 <b>STEM Swift Academy (SSA)</b> - a personal project which aims to provide students with high-quality online exam preparation. It is the first educational app in Bulgaria to implement some of the most effective study techniques, such as Active Recall, Spaced Repetition, Kolb's Experiential cycle, Priming, etc. - https://github.com/alexmehandzhiyska/stem-swift-academy<br><br> 
@@ -40,7 +40,12 @@ Singing, piano, speedcubing, volunteering, foreign languages, medicine, psycholo
 <img align="left" alt="mocha" width="40px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg" />
 <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="inkscape" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" />
-<br><br>
+<br><br><br><br>
+
+## GitHub Trophies
+
+
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alexmehandzhiyska&column=7" alt="GitHub Trophies" /></a>
 
 <!--
 **alexmehandzhiyska/alexmehandzhiyska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
