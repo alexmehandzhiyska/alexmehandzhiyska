@@ -11,7 +11,7 @@
   <img align="left" alt="Alexandrina's LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/raw/master/svg/linkedin.svg" />
 </a>
 <br><br>
-🎓 I graduated from Software University in February 2022 with a 6.0/6.0 GPA. I am also a senior high school music student.<br><br>
+🎓 I graduated from Software University in February 2022 with a 6.0/6.0 GPA. I am also a prospective CS student at AUBG (class of 2027).<br><br>
 💻 I work as a web developer at Aim Academics and I am a lecturer at Software University. I am the project manager of "SoftUni for teachers" - a national initiative, aimed at designing educational resources for Bulgarian IT teachers.<br><br>
 🏆 I won 1st place at the national competition AMTIS 2023 and 4th place at the final of the National Olympiad of Information Technologies 2022 (category Distributed Applications)
 ## 🔭 Projects
