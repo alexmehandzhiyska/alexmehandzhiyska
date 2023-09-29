@@ -23,8 +23,8 @@
 - **Team lead** - "SoftUni Svetlina" private high school of digital sciences
 
 ### 🏆 Awards
-- 1st place - National IT competition AMTIS 2023 (front-end web development)
-- 4th place - National Olympiad of Information Technologies 2022 (distributed applications)
+- **1st place** - National IT competition AMTIS 2023 (front-end web development)
+- **4th place** - National Olympiad of Information Technologies 2022 (distributed applications)
 
 ## 🔭 Projects
 - 🧑‍🏫 <b>STEM Swift Academy (SSA)</b> - a personal project which aims to provide students with high-quality online exam preparation. It is the first educational app in Bulgaria to implement some of the most effective study techniques, such as Active Recall, Spaced Repetition, Kolb's Experiential cycle, Priming, etc. - https://github.com/alexmehandzhiyska/stem-swift-academy<br><br> 
