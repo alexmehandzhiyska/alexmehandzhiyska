@@ -4,11 +4,8 @@
 <a href="https://www.instagram.com/alexmehandzhiyska/">
   <img align="left" alt="Alexandrina's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Alexandrina's Discord" width="22px" src="https://github.com/dheereshagrwal/colored-icons/raw/master/svg/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/alex-mehandzhiyska/">
-  <img align="left" alt="Alexandrina's LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/raw/master/svg/linkedin.svg" />
+  <img align="left" alt="Alexandrina's LinkedIn" width="25px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
 </a>
 <br>
 
@@ -20,11 +17,13 @@
 - **Web developer** - Aim Academics
 - **Programming lecturer** - Software University
 - **Project manager** - SoftUni Foundation
-- **Team lead** - "SoftUni Svetlina" private high school of digital sciences
+- **Team lead** - "SoftUni Buditel" private high school of digital sciences
 
 ### 🏆 Awards
 - **1st place** - National IT competition AMTIS 2023 (front-end web development)
+- **3rd place** - Talent of the Year 2023 (computer science)
 - **4th place** - National Olympiad of Information Technologies 2022 (distributed applications)
+- **Top 100** most influential IT professionals in Bulgaria
 
 ## 🔭 Projects
 - 🧑‍🏫 **STEM Swift Academy** - a personal project which aims to provide students with high-quality online exam preparation. It is the first educational app in Bulgaria to implement some of the most effective study techniques, such as Active Recall, Spaced Repetition, Kolb's Experiential cycle, Priming, etc. - https://github.com/alexmehandzhiyska/stem-swift-academy<br><br> 
@@ -35,7 +34,7 @@
 You can find all of my social media accounts on my LinkTree: https://linktr.ee/AlexandrinaMehandzhiyska
 <br><br>
 ## 🤹 Other interests: 
-Singing, piano, speedcubing, volunteering, foreign languages, medicine, psychology, philosophy, competitive English, ✨KALTA✨
+Singing, piano, speedcubing, volunteering, foreign languages, medicine, psychology, philosophy, competitive English.
 
 ## Technologies and tools
 
@@ -60,7 +59,6 @@ Singing, piano, speedcubing, volunteering, foreign languages, medicine, psycholo
 <img align="left" alt="heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" alt="mocha" width="40px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg" />
-<img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="inkscape" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" />
 <br><br><br><br>
 
