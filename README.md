@@ -14,10 +14,11 @@
 - **Software University** (2020-2022) - Professional degree in Software Engineering (6.00/6.00 GPA)
 
 ### 💻 Work
-- **Web developer** - Aim Academics
 - **Programming lecturer** - Software University
 - **Project manager** - SoftUni Foundation
 - **Team lead** - "SoftUni Buditel" private high school of digital sciences
+- **Subject Tutor** for Statistics, C++, and Web Development - American University in Bulgaria
+- **Web developer** - Aim Academics
 
 ### 🏆 Awards
 - **1st place** - National IT competition AMTIS 2023 (front-end web development)
