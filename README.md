@@ -17,10 +17,11 @@
 - **Programming lecturer** - Software University
 - **Project manager** - SoftUni Foundation
 - **Team lead** - "SoftUni Buditel" private high school of digital sciences
-- **Subject Tutor** for Statistics, C++, and Web Development - American University in Bulgaria
+- **Subject tutor** for statistics, C++, and web development - American University in Bulgaria
 - **Web developer** - Aim Academics
 
 ### 🏆 Awards
+- **1st place** - National hackathon HackAUBG 2024
 - **1st place** - National IT competition AMTIS 2023 (front-end web development)
 - **3rd place** - Talent of the Year 2023 (computer science)
 - **4th place** - National Olympiad of Information Technologies 2022 (distributed applications)
