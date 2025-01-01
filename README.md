@@ -10,14 +10,13 @@
 <br>
 
 ### 🎓 Education
-- **American University in Bulgaria** (2023-2027) - Bachelor of Arts in Computer Science
+- **American University in Bulgaria** (2023-2027) - Bachelor of Arts in Computer Science and Information Systems
 - **Software University** (2020-2022) - Professional degree in Software Engineering (6.00/6.00 GPA)
 
 ### 💻 Work
 - **Programming lecturer** - Software University
-- **Project manager** - SoftUni Foundation
 - **Team lead** - "SoftUni Buditel" private high school of digital sciences
-- **Subject tutor** for statistics, C++, and web development - American University in Bulgaria
+- **Subject tutor and student assistant** for calculus, statistics, C++, C#, and web development - American University in Bulgaria
 - **Web developer** - Aim Academics
 
 ### 🏆 Awards
@@ -54,7 +53,7 @@ Singing, piano, speedcubing, volunteering, foreign languages, medicine, psycholo
 <img align="left" alt="sequelize" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-<img align="left" alt="tailwind" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="tailwind" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="gitlab" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
