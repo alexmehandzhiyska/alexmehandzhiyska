@@ -15,7 +15,6 @@
 
 ### 💻 Work
 - **Programming lecturer** - Software University
-- **Team lead** - "SoftUni Buditel" private high school of digital sciences
 - **Subject tutor and student assistant** for calculus, statistics, C++, C#, and web development - American University in Bulgaria
 - **Web developer** - Aim Academics
 
